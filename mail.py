@@ -44,7 +44,7 @@ def send_email(company_names):
 
 
     server=smtplib.SMTP_SSL('smtp.gmail.com',465)
-    server.login('chhetrirobot@gmail.com',"srnntujcflkbpqoo")
+    server.login('chhetrirobot@gmail.com',"")
     server.send_message(message)
     server.quit()
     print('Sent')
