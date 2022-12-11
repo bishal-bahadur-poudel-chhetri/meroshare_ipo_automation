@@ -1,22 +1,12 @@
 {
        
    "user2":{
-      "DepositerParticipaterID":"NIC ASIA BANK LIMITED (13700)",
-      "CRN_Number":"01-01367237",
-      "UserName":"00090918",
-      "password":"@Rupa560050",
-      "user_email":"bibekchhetri522@gmail.com",
-      "transaction_pin":"9813"
+      "DepositerParticipaterID":"",
+      "CRN_Number":"",
+      "UserName":"",
+      "password":"",
+      "user_email":"",
+      "transaction_pin":""
    },
-   "user3":{
-      "DepositerParticipaterID":"NIC ASIA BANK LIMITED (13700)",
-      "CRN_Number":"01-01367237",
-      "UserName":"00090918",
-      "password":"@Rupa560050",
-      "user_email":"bibekchhetri522@gmail.com",
-      "transaction_pin":"9813"
-   }
-
-
 
 }
